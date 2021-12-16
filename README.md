@@ -1,0 +1,2 @@
+# spellbot
+the spell bot
